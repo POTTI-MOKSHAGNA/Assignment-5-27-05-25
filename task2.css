@@ -1,0 +1,28 @@
+.demo-img{
+    background-color: greenyellow;
+    color: white;
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+}
+
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.head{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li{
+    text-transform: uppercase;
+}
+
+span{
+    text-transform: capitalize;
+}
+
+.img{
+    height: 30px;
+    padding-left: 10px;
+}
